@@ -24,10 +24,10 @@ I created this tool because I needed to **extract specific files from a large di
 
 ## 🚀 How to Run
 1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/orafaelmatos/file-hunter.git
-   cd file-hunter
-   ```
+```bash
+git clone https://github.com/orafaelmatos/file-hunter.git
+cd file-hunter
+```
  2. **Install dependencies**:  
 ```bash
 pip install customtkinter
