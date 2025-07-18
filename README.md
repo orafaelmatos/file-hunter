@@ -1,4 +1,4 @@
-# **File Hunter**
+# **𖦏 File Hunter**
 
 ## 📌 Overview
 **File Hunter** is a desktop application built with **Python** and **CustomTkinter** that helps you **search, filter, and copy files from multiple subfolders** into a single destination folder.
@@ -37,7 +37,7 @@ pip install customtkinter
 python main.py
 ```
 
-## 📂 How It Works
+## ℹ️ How It Works
 - Select **Source Folder** (where files will be searched).
 - Select **Destination Folder** (where files will be copied).
 - Enter
