@@ -111,6 +111,7 @@ def add_placeholder(entry, placeholder):
 # GUI Setup
 app = ctk.CTk()
 app.title("File Hunter")
+app.iconbitmap("alvo.ico")
 center_window(app, 600, 650)
 
 ctk.CTkLabel(app, text="Source Folder:").pack(pady=5)
