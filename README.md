@@ -5,6 +5,11 @@
 
 I created this tool because I needed to **extract specific files from a large directory structure** and organize them quickly. This application automates that process, making it fast and user-friendly for anyone facing a similar challenge.
 
+## ⬇️ Download
+Baixe a versão mais recente do **File Hunter**:
+
+👉 [Download File Hunter v1.0.0 (.exe)](https://github.com/orafaelmatos/file-hunter/releases/download/v1.0.0/main.exe)
+
 ## ✅ Features
 - **Recursive Search**: Scans all subfolders inside the selected source folder.
 - **Pattern Matching**: Filter files by one or multiple keywords (e.g., `sensor`, `motor`, `itm`).
