@@ -8,7 +8,7 @@ I created this tool because I needed to **extract specific files from a large di
 ## ⬇️ Download
 Baixe a versão mais recente do **File Hunter**:
 
-👉 [Download File Hunter v1.0.0 (.exe)](https://github.com/orafaelmatos/file-hunter/releases/download/v1.0.0/FileHunter.exe)
+👉 [Download File Hunter v1.0.0 (.exe)](https://github.com/orafaelmatos/file-hunter/releases/download/v1.0.0/main.exe)
 
 ## ✅ Features
 - **Recursive Search**: Scans all subfolders inside the selected source folder.
